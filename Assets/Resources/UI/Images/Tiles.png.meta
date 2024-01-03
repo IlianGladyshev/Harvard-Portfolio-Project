@@ -1,0 +1,1175 @@
+fileFormatVersion: 2
+guid: 5d1d92b35bd7f78469e33b3b5e6d75e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1728
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b00f37e78bbdb409ab9f860c872be8
+      internalID: 1917944644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftArrow
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1751
+        width: 167
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd3dd07d702d214ca2ac865456c6d97
+      internalID: -1346208022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightArrow
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1751
+        width: 167
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56e5a12e2b87b43a76d7d19636463c
+      internalID: 1806601726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayAudioBig
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1744
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2e6d2c61df174c8a53a7b63144413
+      internalID: 217564716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1727
+        width: 179
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cad71ab753fb642896cbceb6587043
+      internalID: -948151699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1724
+        width: 191
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da081711870fa94f952f2a49dbb722b
+      internalID: -1831240023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayAudioSmall
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1763
+        width: 134
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d8e7715e587346a7f489db0c8926c
+      internalID: 2095389659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knob
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1743
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8434a900f3e94e880bc4be38ae79b
+      internalID: 2043062551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clue
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1734
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f219eb0753b4a03459870ceb85da67e5
+      internalID: -1928915945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Return
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1773
+        width: 105
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa99fdc1015f76468494058a9bb7bb5
+      internalID: -200146139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilRed
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1759
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3434bdc333e7b94f8684c72f6e22c4b
+      internalID: 1498030502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilOrange
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1759
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18086a5e416c4548ada4118dd6cf5da
+      internalID: -1403713364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilYellow
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1759
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1f568c5279e74cb44993fe75acb3d
+      internalID: 531484727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilGreen
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1759
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ac092e2671d84e8b47ebde22e4865
+      internalID: 356018765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilBlue
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1759
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f06e1a166f16b4d9c326ae125d5027
+      internalID: -1458524794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilPurple
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1759
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f3265275433104c85540f40bc4bc80
+      internalID: -891713104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilBrown
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 1759
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a61177a900ca843a9f276da7c034fc
+      internalID: 947482777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilBlack
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 1759
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9265e3f65a49f274f9d4acd9cc302d1a
+      internalID: -406306961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilRubber
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 1762
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fd2294c413c6f43842374bf121b1ba
+      internalID: 291306901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterContainer
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1160
+        width: 509
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8961f7617c734947b65e9fb21b4f9e2
+      internalID: 1864098162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullHDTiles_46
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1578
+        width: 591
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38db4f9cdb18efd4f95630672eccbaa4
+      internalID: -1833855605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxLeftTopAngleNormal
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1464
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583244b16779454684a43d62bc32cc7
+      internalID: -2001017771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxRectangleNormal
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1464
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0028b254389304cb114853ac80e534
+      internalID: -1862325364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxRightTopAngleNormal
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1464
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dab9bbe1ffbd244ab17a99789f210f
+      internalID: 1067904685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxLeftTopAngleHighlighted
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1466
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a7331638dd30344a95aa8449fb0d14
+      internalID: 834007912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxRectangleHighlighted
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1466
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14935b6174732a4c8a33579d4504389
+      internalID: -3972519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxRightTopAngleHighlighted
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1466
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2095dd80d53e8847900003ef76a940a
+      internalID: -2067801857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullHDTiles_53
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1400
+        width: 630
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca62ddf8523e14ea730a64a663e9b4
+      internalID: -1573050153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxLeftBottomAngleNormal
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1223
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d27f6c4760e6c4381263d07a583b05
+      internalID: -1303449500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxRightBottomAngleNormal
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1223
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d856e8036a154e9bcd83d7fc7684a
+      internalID: 1696355931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxLeftBottomAngleHighlighted
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1224
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e9ed2aaa4a8e04fa926a0891620b91
+      internalID: -1716583716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxRightBottomAngleHighlighted
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1224
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6198a8b1d5907b7468abd20e80173b78
+      internalID: -1889374107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxOpen
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1160
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136e3cf3ee6bda4f8f902b8d418c551
+      internalID: 1879457056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBoxClosed
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1160
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5993a8bc80c4604b9a732db05aa8d1f
+      internalID: -1884982024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterPlaceholderWrong
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1290
+        width: 211
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb399e08b2e7b3e49a9883479dc8f952
+      internalID: -823835431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterPlaceholderCorrect
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1227
+        width: 211
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e199dd9cb9168045bb19e6cb60af47a
+      internalID: -923533454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterPlaceholderNormal
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1163
+        width: 211
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2470d67b7b0be424b895052de4a6d06d
+      internalID: 431431252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonDrawingHighlighted
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1016
+        width: 192
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74cbf032c4c7c94a8593a8789b3fb66
+      internalID: 1099420436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonImageHighlighted
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1016
+        width: 190
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebfeb919fd4f444a1c39f36a4a1313
+      internalID: -1944301365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonDrawingNormal
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1016
+        width: 190
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16456db0b878e754f98b77cbc344fd34
+      internalID: -909711167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonImageNormal
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1016
+        width: 189
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f81303fe864ab543a5cc5013904737d
+      internalID: -862702754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WordPlaceholder
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 904
+        width: 1494
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc70a1ca4ae8e4da0a63c157d1d8a5
+      internalID: 1452397179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImagePlaceholder
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 244
+        width: 722
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dbded1904907d4e8b3a5a74975444c
+      internalID: -104145054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawingPlaceholder
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 243
+        width: 1723
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2109546731b3dab49b0a239980faf477
+      internalID: -1503800092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletePlaceholder
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 61
+        width: 1321
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a37663414c38409f73078fe290549
+      internalID: 748873435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Exit: -948151699
+      LetterBoxLeftTopAngleNormal: -2001017771
+      FullHDTiles_35: 1021489745
+      Knob: 2043062551
+      FullHDTiles_19: -268683473
+      PencilOrange: -1403713364
+      FullHDTiles_42: 1957162572
+      LetterBoxLeftBottomAngleNormal: -1303449500
+      LetterPlaceholderNormal: 431431252
+      FullHDTiles_11: 1510736888
+      PencilRubber: 291306901
+      FullHDTiles_15: 179714215
+      FullHDTiles_12: -245180079
+      FullHDTiles_29: 964746011
+      FullHDTiles_37: 305608749
+      FullHDTiles_10: -1950287927
+      PencilPurple: -891713104
+      FullHDTiles_39: 1609474805
+      ButtonDrawingNormal: -909711167
+      LetterBoxLeftTopAngleHighlighted: 834007912
+      DrawingPlaceholder: -1503800092
+      Clue: -1928915945
+      PencilBrown: 947482777
+      LetterBoxLeftBottomAngleHighlighted: -1716583716
+      FullHDTiles_34: -663445430
+      RightArrow: 1806601726
+      LetterBoxRectangleNormal: -1862325364
+      PencilYellow: 531484727
+      LetterBoxOpen: 1879457056
+      FullHDTiles_40: 1997985743
+      ButtonImageNormal: -862702754
+      Star: -1831240023
+      ButtonDrawingHighlighted: 1099420436
+      LeftArrow: -1346208022
+      PencilBlue: -1458524794
+      ImagePlaceholder: -104145054
+      LetterPlaceholderWrong: -823835431
+      PencilRed: 1498030502
+      Play: 1917944644
+      FullHDTiles_36: 649552262
+      PlayAudioSmall: 2095389659
+      Return: -200146139
+      LetterBoxRightTopAngleNormal: 1067904685
+      LetterBoxRectangleHighlighted: -3972519
+      FullHDTiles_53: -1573050153
+      FullHDTiles_16: 1430625921
+      LetterContainer: 1864098162
+      FullHDTiles_43: 792558944
+      FullHDTiles_8: 1217104297
+      FullHDTiles_30: 1002890081
+      FullHDTiles_7: -980572736
+      LetterBoxRightTopAngleHighlighted: -2067801857
+      FullHDTiles_13: 647779631
+      ButtonImageHighlighted: -1944301365
+      LetterBoxClosed: -1884982024
+      FullHDTiles_4: -856089118
+      WordPlaceholder: 1452397179
+      FullHDTiles_32: 432396192
+      FullHDTiles_38: -1371220081
+      FullHDTiles_44: -849891768
+      PencilBlack: -406306961
+      PencilGreen: 356018765
+      LetterPlaceholderCorrect: -923533454
+      LetterBoxRightBottomAngleNormal: 1696355931
+      LetterBoxRightBottomAngleHighlighted: -1889374107
+      FullHDTiles_9: -1744078041
+      FullHDTiles_46: -1833855605
+      PlayAudioBig: 217564716
+      FullHDTiles_17: -1527580725
+      FullHDTiles_41: 308143432
+      PalletePlaceholder: 748873435
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
